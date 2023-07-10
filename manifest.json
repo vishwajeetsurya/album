@@ -7,32 +7,32 @@
         {
             "src": "./asset/images/logo-48x48.png",
             "sizes": "48x48",
-            "type": "images/png"
+            "type": "image/png"
         },
         {
             "src": "./asset/images/logo-72x72.png",
             "sizes": "72x72",
-            "type": "images/png"
+            "type": "image/png"
         },
         {
             "src": "./asset/images/logo-96x96.png",
             "sizes": "96x96",
-            "type": "images/png"
+            "type": "image/png"
         },
         {
             "src": "./asset/images/logo-144x144.png",
             "sizes": "144x144",
-            "type": "images/png"
+            "type": "image/png"
         },
         {
             "src": "./asset/images/logo-192x192.png",
             "sizes": "192x192",
-            "type": "images/png"
+            "type": "image/png"
         },
         {
             "src": "./asset/images/logo-512x512.png",
             "sizes": "512x512",
-            "type": "images/png"
+            "type": "image/png"
         }
     ]
 }
